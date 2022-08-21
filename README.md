@@ -35,7 +35,7 @@ My name is Vasilis and I am an Electrical 💡 and Computer 💻 Engineering stu
 
 
 ### :fire: My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Billkyriaf&theme=dark&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Billkyriaf&theme=dark&count_private=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Billkyriaf&count_private=true&show_icons=true&theme=dark&hide=stars)
 
