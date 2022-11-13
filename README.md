@@ -43,11 +43,13 @@ My name is Vasilis and I am an Electrical 💡 and Computer 💻 Engineering stu
 
 ### 🌱 I’m currently learning:
 
-I am currenty learning about computer graphics, embedded systems and hardware design.
+I am currenty learning about neural networks and hardware software co-design.
 
 ### 🔭 Interests
 * Rust (Sometime in the future)
 * Linux
+* Neural Networks
+* Hardware Software co-design
 * Parallel programming
 * Operating Systems
 * Computer Graphics
